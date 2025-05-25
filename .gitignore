@@ -5,3 +5,4 @@ test.ipynb
 APIkeys.json
 *.jpg
 petsdb
+*.db
